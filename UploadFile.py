@@ -1,5 +1,5 @@
 """
-Opens a gpx file, prints each line of gpx, finds the beginning of the first data point
+Opens a gpx file, prints each line of gpx, finds the beginning of the first data point.
 """
 
 fileref = open("/Users/ericwarren/Documents/Projects/GPXFiles/b_med.gpx", "r")
